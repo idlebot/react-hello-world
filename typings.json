@@ -1,0 +1,5 @@
+{
+  "ambientDependencies": {
+    "react-global": "github:DefinitelyTyped/DefinitelyTyped/react/react-global-0.13.3.d.ts#49f853d9dc71a5647175d7bfd62aa7030e92b39f"
+  }
+}
