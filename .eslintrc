@@ -1,0 +1,47 @@
+{
+  "extends": "eslint:recommended",
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "sourceType": "module"    
+  },
+  "plugins": [
+    "react",
+    "import"
+  ],
+
+  "rules": {
+    "indent": [
+      2,
+      2,
+      {
+        "SwitchCase": 1
+      }
+    ],
+    "semi": [
+      2,
+      "always"
+    ],
+    "quotes": [
+      2,
+      "single"
+    ],
+    "no-console": [
+      0
+    ],
+    "no-unused-vars": [
+      2,
+      {
+        "args": "none",
+        "vars": "all"
+      }
+    ],
+    "react/jsx-uses-vars": 1,
+    "react/jsx-uses-react": 1
+  }
+}
