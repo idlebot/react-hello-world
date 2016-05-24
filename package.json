@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/idlebot/react-hello-world#readme",
   "dependencies": {
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7"
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.7.0",
