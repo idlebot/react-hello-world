@@ -32,7 +32,7 @@
     "babel-preset-stage-1": "^6.5.0",
     "css-loader": "^0.23.1",
     "eslint": "^2.3.0",
-    "eslint-plugin-import": "^1.0.3",
+    "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-react": "^4.2.1",
     "file-loader": "^0.8.5",
     "img-loader": "^1.2.2",
