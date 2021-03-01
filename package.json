@@ -37,7 +37,7 @@
     "file-loader": "^0.8.5",
     "img-loader": "^1.2.2",
     "source-map-loader": "^0.1.5",
-    "url-loader": "^0.5.7",
+    "url-loader": "^4.1.1",
     "webpack": "^1.12.14",
     "webpack-dev-server": "^1.14.1"
   }
