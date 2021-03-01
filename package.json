@@ -34,7 +34,7 @@
     "eslint": "^2.3.0",
     "eslint-plugin-import": "^1.0.3",
     "eslint-plugin-react": "^4.2.1",
-    "file-loader": "^0.8.5",
+    "file-loader": "^6.2.0",
     "img-loader": "^1.2.2",
     "source-map-loader": "^0.1.5",
     "url-loader": "^0.5.7",
